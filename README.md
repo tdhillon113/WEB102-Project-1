@@ -19,7 +19,7 @@ The following required functionality is completed:
 
 Video Walkthrough:
 Here's a walkthrough of implemented features:
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/wLsDzSjF.gif' />
+<img src='[https://submissions.us-east-1.linodeobjects.com/web102/wLsDzSjF.gif]' />
 
 
 
