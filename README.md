@@ -19,4 +19,26 @@ The following required functionality is completed:
 
 Video Walkthrough:
 Here's a walkthrough of implemented features:
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/jpGG8kjv.gif' title= 'Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/TU3O-Zs1.gif' title= 'Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
